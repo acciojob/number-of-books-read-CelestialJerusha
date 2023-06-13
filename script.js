@@ -23,7 +23,7 @@ const numberOfBooksRead = Object.values(library).reduce((count, curr) => {
     }
     return count;
 }, 0);
-console.log(numberOfBooksRead);
+
 
 // Do not change the code below
 
